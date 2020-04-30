@@ -27,6 +27,11 @@
    Run, Explorer "C:\Users\smyers\Lutron Electronics Co.`, Inc\Spec Services and Spec Sales - Sam Myers - Accounts\IMEG"
    return
 
+; Open folder (LDA) with ]lda
+  :*:]nik::
+  Run, Explorer "C:\Users\smyers\Lutron Electronics Co.`, Inc\Spec Services and Spec Sales - Sam Myers - Accounts\LDA"
+  return
+
 ; Open folder (Nikolakopulos) with ]nik
    :*:]nik::
    Run, Explorer "C:\Users\smyers\Lutron Electronics Co.`, Inc\Spec Services and Spec Sales - Sam Myers - Accounts\Nikolakopulos"
